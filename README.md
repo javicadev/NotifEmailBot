@@ -49,11 +49,12 @@ Ideal for urgent situations, client work, freelancing, or any time you need inst
 
 ## ⚙️ Customization
 
-Edit the list of target email addresses here:
+Edit the list of target email addresses in the scripts, at the very beginning:
 
 ```javascript
 var remitentes = [
   "person1@example.com",
   "client@company.com"
 ];
+
 
